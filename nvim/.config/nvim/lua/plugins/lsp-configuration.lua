@@ -1,0 +1,4 @@
+-- Inside this file I want the whole configuration for the lsp in neovim
+-- lspconfig, mason
+-- also snippets and automcomplete?
+-- yes everythin here so it's an atomic file to have those functionalities
